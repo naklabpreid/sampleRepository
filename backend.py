@@ -3,6 +3,7 @@ from sys import argv
 import numpy as np
 import cv2
 import time
+import torch
 
 from src.system.interface import AnnotatorInterface
 
